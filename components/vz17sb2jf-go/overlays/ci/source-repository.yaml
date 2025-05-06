@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vz17sb2jf-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vz17sb2jf-go
